@@ -1,0 +1,19 @@
+body{
+    background: url("../img/old-white.jpg");
+}
+h1 {
+    font-size: 36px;
+    text-align: center;
+    color: navy;
+    font-family: cursive;
+}
+#success_message{
+    display: none;
+}
+.container {
+    padding-top: 2% ;
+}
+textarea {
+    resize: none;
+}
+/*Валидация*/
